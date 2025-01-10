@@ -1,4 +1,6 @@
+![image](https://github.com/user-attachments/assets/93aef86f-38b7-4f44-8db1-4a83b7863974)
 
+**Mise en situation**:
 
 
 
