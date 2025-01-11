@@ -4,11 +4,11 @@
 
 Bottleneck est un marchand de vin très prestigieux. 
 Ses données de vente et de stock sont réparties entre ERP et site de vente en ligne. 
-Il a du mal à analyser ses données et gérer son stock. 
+Il a du mal à analyser ses données et gérer son stock car ERP et site web sont complètement séparés. 
 
 **Mission**:
 
-Extraire les données de l'ERP et du site web, les agréger afin de les exploiter. 
+Réaliser un rapprochement entre ERP et site web en extrayant les données de l'un et de l'autre, les agréger afin de les exploiter. 
 
 Fournir une analyse pertinente des données afin d'améliorer la gestion du stock.
 
