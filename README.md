@@ -9,11 +9,14 @@ Il a du mal à analyser ses données et gérer son stock.
 **Mission**:
 
 Extraire les données de l'ERP et du site web, les agréger afin de les exploiter. 
+
 Fournir une analyse pertinente des données afin d'améliorer la gestion du stock.
 
 **Compétences**:
 
 Utiliser des librairies Python.
+
 Travailler sur un notebook.
+
 Réaliser une analyse univariée pour interpréter des données.
 
