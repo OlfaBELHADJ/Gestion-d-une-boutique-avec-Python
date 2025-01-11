@@ -2,12 +2,18 @@
 
 **Mise en situation**:
 
+Bottleneck est un marchand de vin très prestigieux. 
+Ses données de vente et de stock sont réparties entre ERP et site de vente en ligne. 
+Il a du mal à analyser ses données et gérer son stock. 
 
+**Mission**:
 
-vous utiliserez des librairies ;
-effectuerez des analyses exploratoires de fichiers ;
-travaillerez avec un notebook ;
-effectuerez des jonctions de fichiers ;
-des analyses univariées ;
+Extraire les données de l'ERP et du site web, les agréger afin de les exploiter. 
+Fournir une analyse pertinente des données afin d'améliorer la gestion du stock.
 
+**Compétences**:
+
+Utiliser des librairies Python.
+Travailler sur un notebook.
+Réaliser une analyse univariée pour interpréter des données.
 
